@@ -34,3 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# C/C++ compiled binaries
+programs/c/library_management
+*.o
+*.out
+*.exe
