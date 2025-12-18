@@ -27,6 +27,22 @@ A menu-driven program for managing a small library system with the following fea
 
 #### How to Compile and Run
 
+**Option 1: Using Makefile (Recommended)**
+```bash
+# Navigate to the c directory
+cd programs/c
+
+# Compile the program
+make
+
+# Run the program
+make run
+
+# Clean compiled files
+make clean
+```
+
+**Option 2: Using GCC directly**
 ```bash
 # Navigate to the c directory
 cd programs/c
